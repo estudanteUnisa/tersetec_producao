@@ -1,1 +1,0 @@
-# vai receber a equipamentos montados de todos os setores para incluir no db
