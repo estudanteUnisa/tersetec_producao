@@ -1,0 +1,22 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="object.gerar_valor" />
+          <option value="object.gerar_resultado" />
+          <option value="object.__dificuldade" />
+          <option value="object.__valor1" />
+          <option value="object.__valor2" />
+          <option value="object.__operacao" />
+          <option value="object.__resultado" />
+          <option value="object.operacao" />
+          <option value="object.valor2" />
+          <option value="object.valor1" />
+          <option value="object.dificuldade" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
